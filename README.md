@@ -1,3 +1,3 @@
-# i'm a guy on the internet.
+# Where do you want to go today?
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=theohaines)
+https://Theohaines.xyz
